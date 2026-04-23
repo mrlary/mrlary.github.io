@@ -1,6 +1,6 @@
 # Site settings
 title:          mrlary
-description:    "Minimal Jekyll theme for storytellers"
+description:    "Mrlary's dev-hacker blog"
 baseurl:        ""
 url:            ""
 
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         mrlary
+  url:          ""
+  email:        ""
 
 # Build settings
 markdown:       kramdown
